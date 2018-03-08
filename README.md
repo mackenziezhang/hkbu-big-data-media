@@ -295,7 +295,7 @@ Wow,3,000? It's even not enough for food and rents...But luckily, for the whole 
 </br>
 P.S. please look at my file to find the charts.
 </br>
-So that's how I did a research to target a job. The result is Jiangsu Bank, and to avoid administration. I'm going to send my CV, good luck to me...
+So that's how I did a research to target a job. The result is Jiangsu Bank, to avoid administration, and the minimum payment I should argue with the HR is 7k. I'm going to send my CV, good luck to me...
 
 ## Authors
 
