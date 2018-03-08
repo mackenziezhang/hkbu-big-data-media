@@ -1,29 +1,24 @@
 
 # Zhaopin.com spider 
+</br>
 
-
-To aviod being jobless after graduation, I should consider what kinds of jobs I'm going to do and which company I will work for. It seems that Hangzhou is a good choice with comfortable environment and comparatively affordable house price, and banks provide higher salary.
-
-
-
+</br>
+</br>
 
 ## Getting Started
 
-
-
-I entered "Hangzhou" and chose "bank" on the https://www.zhaopin.com/, then I got my inital webpage http://sou.zhaopin.com/jobs/searchresult.ashx?in=300500&jl=%E6%9D%AD%E5%B7%9E&sm=0&el=4&we=-1&isfilter=1&bj=2071000&sg=e8078f0e56ec4d41a7ed3315fd2a2dbb&p=1
-
-
+</br>
+</br>
 
 
 ### Prerequisites
+</br>
 
-
-Python 3, bs4, codecs, pandas, ordereddict, requests, etree
+Python 3, bs4, codecs, pandas, ordereddict, requests, etree/n
 Software: Openrefine
+</br></br>
 
-
-### Installing
+### Process
 
 ```
 import requests
@@ -106,7 +101,7 @@ for i in get_links(urls):
         gzjys.append(gzjy)
 print(gzjys)
 ```
-Wow seems perfect. But...wait a moment, there were only 97 items in my gzjys list, while there were 100 links. 
+Wow seems perfect. But...wait a moment, there were only 97 items in my gzjys list, while there were 100 links. </br>
 The problem was 3 of the links were linked to another kind of webpages which were different from others. Then I just found them and inserted the work experience demands into gzjys list. 
 
 
@@ -134,9 +129,9 @@ with codecs.open('zhilian.csv', 'w', 'gbk') as f:
         f.write(",".join(str(data[h]) for h in header))
         f.write('\n')
 ```
-Then I got a csv, but the data demanded cleaning. I used Openrefine to delete all items without clear salaries like "Salary Negotiable（面议）" which wouldn't help my decision.(p.s.Openrefine is really fantastic!!!)
+Then I got a csv, but the data demanded cleaning. I used Openrefine to delete all items without clear salaries like "Salary Negotiable（面议）" which wouldn't help my decision.(p.s.Openrefine is really fantastic!!!)</br>
+</br>
 
-Next step, analyze the data with pandas.
 
 ```
 df = pd.read_csv('zhilian-csv.csv')
@@ -152,7 +147,7 @@ Results(first 5):
 浙江稠州商业银行股份有限公司             5
 中国光大银行杭州分行                 5
 ```
-Wow, it seems that CMB China needs more new staff.
+Wow, it seems that CMB China needs more new staff.</br>
 In order to compare the salaris, I need an average number of ranges.
 
 ```
@@ -197,7 +192,7 @@ df['月薪平均'].mean()
 df['月薪平均'].median()
 11500.0
 ```
-The most common salary is 7k, maybe I can take this number as my minimum demand of payment. The average salary is 13,165, and the median is 11,500, wow, it seems I probably have a good future.
+The most common salary is 7k, maybe I can take this number as my minimum demand of payment. The average salary is 13,165, and the median is 11,500, wow, it seems I probably have a good future.</br>
 But now I has no experience, so I should look at the items without work experience limit first.
 
 ```
@@ -265,7 +260,7 @@ df[df['工作经验'] == '3-5年'].mean()
 df[df['工作经验'] == '3-5年'].median()
 月薪平均    12500.0
 ```
-Well, for the other two positions in Jiangsu Bank, the 12,500 one is equal to the median, the 15,000 one is higer than the average and the median. The career development is not bad.
+Well, for the other two positions in Jiangsu Bank, the 12,500 one is equal to the median, the 15,000 one is higer than the average and the median. The career development is not bad.</br>
 However, I can't just look at good things...So let's see how poor I probably will be.
 
 ```
@@ -295,11 +290,9 @@ df[df['职位名称'].str.contains('行政')]
 19	银行行政助理（质检）	招商信诺人寿保险有限公司	2001-4000	不限	3000
 70	兴业银行信用卡行政助理	兴业银行杭州分行	4001-6000	不限	5000
 ```
-Wow,3,000? It's even not enough for food and rents...But luckily, for the whole six positions the salaries under 6,000, half of them are administrations, and all of administration jobs offer lower payments. Therefore, if I avoid applying for administration, probably I won't be so poor...
+Wow,3,000? It's even not enough for food and rents...But luckily, for the whole six positions the salaries under 6,000, half of them are administrations, and all of administration jobs offer lower payments. Therefore, if I avoid applying for administration, probably I won't be so poor...</br>
+</br>
 
-P.S. please look at my file to find the charts.
-
-So that's how I did a research to target a job. The result is Jiangsu Bank, and to avoid administration. I'm going to send my CV, good luck to me...
 
 
 ## Authors
