@@ -15,7 +15,7 @@ I entered "Hangzhou" and chose "bank" on the https://www.zhaopin.com/, then I go
 ### Prerequisites
 </br>
 
-Python 3, bs4, codecs, pandas, ordereddict, requests, etree/n
+Python 3, bs4, codecs, pandas, ordereddict, requests, etree</br>
 Software: Openrefine
 </br></br>
 
