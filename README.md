@@ -1,12 +1,13 @@
 
 # Zhaopin.com spider 
 </br>
-
+To aviod being jobless after graduation, I should consider what kinds of jobs I'm going to do and which company I will work for. It seems that Hangzhou is a good choice with comfortable environment and comparatively affordable house price, and banks provide higher salary.
 </br>
 </br>
 
 ## Getting Started
-
+</br>
+I entered "Hangzhou" and chose "bank" on the https://www.zhaopin.com/, then I got my inital webpage http://sou.zhaopin.com/jobs/searchresult.ashx?in=300500&jl=%E6%9D%AD%E5%B7%9E&sm=0&el=4&we=-1&isfilter=1&bj=2071000&sg=e8078f0e56ec4d41a7ed3315fd2a2dbb&p=1
 </br>
 </br>
 
@@ -131,7 +132,7 @@ with codecs.open('zhilian.csv', 'w', 'gbk') as f:
 ```
 Then I got a csv, but the data demanded cleaning. I used Openrefine to delete all items without clear salaries like "Salary Negotiable（面议）" which wouldn't help my decision.(p.s.Openrefine is really fantastic!!!)</br>
 </br>
-
+Next step, analyze the data with pandas.
 
 ```
 df = pd.read_csv('zhilian-csv.csv')
@@ -292,8 +293,9 @@ df[df['职位名称'].str.contains('行政')]
 ```
 Wow,3,000? It's even not enough for food and rents...But luckily, for the whole six positions the salaries under 6,000, half of them are administrations, and all of administration jobs offer lower payments. Therefore, if I avoid applying for administration, probably I won't be so poor...</br>
 </br>
-
-
+P.S. please look at my file to find the charts.
+</br>
+So that's how I did a research to target a job. The result is Jiangsu Bank, and to avoid administration. I'm going to send my CV, good luck to me...
 
 ## Authors
 
