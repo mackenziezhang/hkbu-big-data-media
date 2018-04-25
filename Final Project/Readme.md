@@ -1,8 +1,6 @@
 # Hong Kong Property Analysis
 </br>
-A data analysis of Hong Kong residential property from 2008 to 2017. 
-</br>
-</br>
+A data analysis of Hong Kong residential property from 2008 to 2017. </br></br>
 ## Getting Started 
 </br>
 
@@ -35,14 +33,11 @@ Please see the ipynb for the codes.
 </br>
 [demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/percentage.html)
 </br>
-Housing affordability can be measured in different ways.
-</br>
-One way is to judge from the distribution of domestic households by tenure of accommodation.
-</br>
+Housing affordability can be measured in different ways.</br>
+One way is to judge from the distribution of domestic households by tenure of accommodation.</br>
 Owners contain residents of both public sector housing and private sector housing.
 Tenants comprise of sole tenants and co-tenants.
-Others include main tenants, sub-tenants and rent free domestic households. 
-</br>
+Others include main tenants, sub-tenants and rent free domestic households. </br>
 Primarily, it can be seen from the graph that the total amount of households in Hong Kong is growing every year, add up to 0.25 million increase in the past decade, which coincide with the city’s population growth, from 6.96 million in 2008 to 7.41 million in 2017.
 </br>
 Although the changes of the amount of owner-occupiers can barely be identified from the graph, for the proportion of owner-occupiers, it experienced a drop over the past ten years. In 2008, owners of the domestic households made up 53.5% of the total distribution while in 2017 the number fell by 4% to 49.5%.
