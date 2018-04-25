@@ -95,8 +95,8 @@ However, the continuous increasing demand, low interest rate and influx of capit
 
 ## Authors
 </br>
-* **Zhang Jin** - *Data mining and analysing*
-* **Zhu Jieyan** - *Data mining and analysing*
-* **Zhang Ruirong** - *Graphs and analysis*
-* **Niu Qizhen** - *Graphs and analysis*
+* **Zhang Jin** - *Data mining and analysing*</br>
+* **Zhu Jieyan** - *Data mining and analysing*</br>
+* **Zhang Ruirong** - *Graphs and analysis*</br>
+* **Niu Qizhen** - *Graphs and analysis*</br>
 </br>
