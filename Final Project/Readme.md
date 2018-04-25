@@ -31,12 +31,14 @@ Please see the ipynb for the codes.
 </br></br>
 ### House affordability
 </br>
-![ ](https://github.com/mackenziezhang/hkbu-big-data-media/blob/master/Final%20Project/house%20affordability.png)</br>
+
+![  ](https://github.com/mackenziezhang/hkbu-big-data-media/blob/master/Final%20Project/house%20affordability.png)</br>
 </br>
 
 ### Distribution of domestic households by tenure of accommodation
 </br>
-[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/percentage.html)</br>
+
+[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/percentage.html)
 </br>
 Housing affordability can be measured in different ways.</br></br>
 One way is to judge from the distribution of domestic households by tenure of accommodation.</br></br>
@@ -54,6 +56,7 @@ A possible explanation for this general trend is the deteriorating home purchase
 
 ### Completion 
 </br>
+
 [demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/Completion%202008-2017.html) </br>
 </br>
 It is clear that the number of newly completed flats with saleable areas of 40 – 69.9 sq m ranks the top, followed by 70 – 99.9 sq m and less than 40 sq m.</br>
@@ -66,8 +69,10 @@ Reflecting the above trend, the number of newly completed small-sized flats has 
 
 ### Contracts and Consideration 
 </br>
+
 ![ ](https://github.com/mackenziezhang/hkbu-big-data-media/blob/master/Final%20Project/标记.png)
 </br></br>
+
 [demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/%E5%90%88%E7%BA%A6%E6%95%B0%E7%9B%AE.html)
 </br></br>
 The two charts show Hong Kong housing price index and the number of contracts signed and consideration during the 10 years until 2018. </br>
@@ -85,7 +90,7 @@ However, the continuous increasing demand, low interest rate and influx of capit
 </br>
 </br>
 
-### Contracts and Consideration 
+### Prices of 3 distincts 
 
 
 
