@@ -3,8 +3,7 @@
 A data analysis of Hong Kong residential property from 2008 to 2017. 
 </br>
 </br>
-Getting Started 
---------- 
+## Getting Started 
 </br>
 
 </br>
