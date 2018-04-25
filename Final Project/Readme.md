@@ -1,8 +1,9 @@
 # Hong Kong Property Analysis
 </br>
 A data analysis of Hong Kong residential property from 2008 to 2017. </br>
+
 </br></br>
-## Getting Started 
+## Getting started
 </br>
 
 </br></br>
@@ -16,8 +17,8 @@ import pandas
 import matplotlib
 import seaborn 
 ```
-</br>
-</br>
+
+</br></br>
 ### Installing
 </br>
 Please see the ipynb for the codes.
@@ -26,11 +27,13 @@ Please see the ipynb for the codes.
 
 
 ## Analysis
-</br>
+
+</br></br>
 ### House affordability
 </br>
 ![ ](https://github.com/mackenziezhang/hkbu-big-data-media/blob/master/Final%20Project/house%20affordability.png)</br>
 </br>
+
 ### Distribution of domestic households by tenure of accommodation
 </br>
 [demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/percentage.html)</br>
@@ -48,6 +51,7 @@ In contrast, it is very obvious that the number of tenant households is in a ste
 </br>
 A possible explanation for this general trend is the deteriorating home purchase affordability and the rising difficulty in home ownership in Hong Kong. </br>
 </br>
+
 ### Completion 
 </br>
 [demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/Completion%202008-2017.html) </br>
@@ -59,6 +63,7 @@ The residential units built by private developers have become increasingly small
 Reflecting the above trend, the number of newly completed small-sized flats has increased visibly since 2012. The number of newly completed flats with saleable areas of less than 40 sq m was 636 in 2011 and it doubled in 2012. The number reached 6891 in 2017.</br>
 </br>
 </br>
+
 ### Contracts and Consideration 
 </br>
 ![ ](https://github.com/mackenziezhang/hkbu-big-data-media/blob/master/Final%20Project/标记.png)
@@ -79,7 +84,9 @@ In 2014, the government take action to cool the housing market on supply side, t
 However, the continuous increasing demand, low interest rate and influx of capital from Mainland China and other countries fuelled the boost of housing price in recent years.  The second chart shows that the contracts signed after 2014 decreased a lot, but the consideration during 2014 to 2018 is basically unchanged compared to the consideration during 2008 and 2013, implies the continued soaring housing prices.</br>
 </br>
 </br>
+
 ### Contracts and Consideration 
+
 
 
 
@@ -90,8 +97,8 @@ However, the continuous increasing demand, low interest rate and influx of capit
 
 ## Authors
 </br>
-* **Zhang Jin** - *Data mining and analysing*</br>
-* **Zhu Jieyan** - *Data mining and analysing*</br>
-* **Zhang Ruirong** - *Graphs and analysis*</br>
+* **Zhang Jin** - *Data mining and analysing*</br></br>
+* **Zhu Jieyan** - *Data mining and analysing*</br></br>
+* **Zhang Ruirong** - *Graphs and analysis*</br></br>
 * **Niu Qizhen** - *Graphs and analysis*</br>
 </br>
