@@ -97,11 +97,14 @@ However, the continuous increasing demand, low interest rate and influx of capit
 
 ### Prices of 3 distincts 
 </br>
-[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/timebar1.html)
 
-[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/%E5%8D%96%E5%9C%B0%E6%95%B0%E9%87%8F%E9%87%91%E9%A2%9D1.html)
+[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/timebar1.html)
 </br>
 
+[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/%E5%8D%96%E5%9C%B0%E6%95%B0%E9%87%8F%E9%87%91%E9%A2%9D1.html)
+
+</br>
+</br>
 ## Built With
 </br>
 * [Pyecharts](http://pyecharts.org/#/zh-cn/charts) - The packeage allowing you to write echarts in python</br></br>
