@@ -78,7 +78,7 @@ Reflecting the above trend, the number of newly completed small-sized flats has 
 ![ ](https://github.com/mackenziezhang/hkbu-big-data-media/blob/master/Final%20Project/标记.png)
 </br></br>
 
-[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/%E5%90%88%E7%BA%A6%E6%95%B0%E7%9B%AE1.html)
+[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/%E5%90%88%E7%BA%A6%E6%95%B0%E7%9B%AE.html)
 </br></br>
 The two charts show Hong Kong housing price index and the number of contracts signed and consideration during the 10 years until 2018. </br>
 </br>
