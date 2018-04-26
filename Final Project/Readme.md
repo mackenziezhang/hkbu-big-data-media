@@ -103,18 +103,9 @@ However, the continuous increasing demand, low interest rate and influx of capit
 ## Built With
 </br>
 * [Pyecharts](http://pyecharts.org/#/zh-cn/charts) - The packeage allowing you to write echarts in python</br></br>
-* [香港政府地政总署]（https://www.landsd.gov.hk/）</br></br>
-
- 
-
-* [香港政府一站通]（https://www.data.gov.hk/）</br></br>
-
- 
-
-* [香港政府土地注册处]（https://landreg.gov.hk）</br></br>
-
- 
-
+* [香港政府地政总署](https://www.landsd.gov.hk/)</br></br>
+* [香港政府一站通](https://www.data.gov.hk/)</br></br>
+* [香港政府土地注册处](https://landreg.gov.hk)</br></br>
 * [14th Annual Demographia International Housing Affordability] </br></br>
 </br>
 
