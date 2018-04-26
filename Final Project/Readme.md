@@ -34,6 +34,12 @@ Please see the ipynb for the codes.
 
 ![  ](https://github.com/mackenziezhang/hkbu-big-data-media/blob/master/Final%20Project/house%20affordability.png)</br>
 </br>
+Hong Kong is one of the most expensive places to live on Earth because of the imbalance between its population (huge) and and its land (tiny).</br></br>
+
+According to 14th Annual Demographia International Housing Affordability Survey: 2018, Hong Kong is the least affordable market for the 8th consecutive year among 92 major housing markets. </br></br>
+Demographia rates middle-income housing affordability using the “Median Multiple,” which is the median house price divided by the median household income. The Median Multiple and other price-to-income multiples are similar, but it removes the impact of low-income households and high-income households.</br></br>
+
+Hong Kong has least affordable housing, with a Median Multiple of 19.4, the least affordable Median Multiple yet recorded. It means one ordinary family must spend more than 19 years on buying one housing without eating, drinking and paying tax. This figure is far more than Sydney (12.9) and Vancouver (12.6), which rank the second and the third place.</br></br>
 
 ### Distribution of domestic households by tenure of accommodation
 </br>
