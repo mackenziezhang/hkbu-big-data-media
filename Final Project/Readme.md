@@ -96,9 +96,11 @@ However, the continuous increasing demand, low interest rate and influx of capit
 </br>
 
 ### Prices of 3 distincts 
+</br>
+[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/timebar1.html)
 
-
-
+[demo](https://mackenziezhang.github.io/hkbu-big-data-media/Final%20Project/%E5%8D%96%E5%9C%B0%E6%95%B0%E9%87%8F%E9%87%91%E9%A2%9D1.html)
+</br>
 
 ## Built With
 </br>
